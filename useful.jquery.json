@@ -1,0 +1,16 @@
+{
+    "name": "useful",
+    "version":"1.0.3",
+    "title": "My first plugin",
+    "author": "Mamzelle",
+    "licenses": [
+           {
+               "type": "MIT",
+               "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+           }
+       ],
+    "dependencies": {
+            "jquery": ">=1.8"
+    }
+
+}
