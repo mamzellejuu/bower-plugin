@@ -1,0 +1,8 @@
+{
+  "name": "useful",
+  "version": "1.0.6",
+  "main": ["libs/useful.jquery.js"],
+  "dependencies": {
+    "jquery": "~1.7.2"
+  }
+}
